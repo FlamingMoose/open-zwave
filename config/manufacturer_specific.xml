@@ -711,6 +711,7 @@
 		<Product type="0103" id="006F" name="FT111 In Wall Dimmer" config="oomi/ft111.xml" />
 		<Product type="0203" id="006F" name="FT111 In Wall Dimmer" config="oomi/ft111.xml" />
 		<Product type="1D03" id="006F" name="FT111 In Wall Dimmer" config="oomi/ft111.xml" />
+		<Product type="0003" id="0062" name="FT098 Bulb FT098-C55" config="oomi/ft098.xml" />
 	</Manufacturer>
 	<Manufacturer id="010f" name="FIBARO System">
 		<Product type="0501" id="0101" name="FGBS001 Universal Binary Sensor" config="fibaro/fgbs001.xml" />
